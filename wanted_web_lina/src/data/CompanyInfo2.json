@@ -1,0 +1,74 @@
+{
+    "companyInfo2" : [
+        {
+            "id": 1,
+            "image" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F32890%2Fe4xhrb3ek9vqhqqk__1080_790.jpg&w=520&q=100",
+            "icon" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fwdes%2F0_4.37e1261c.jpg&w=42&q=100",
+            "title" : "비솔",
+            "subtitle" : "제조"
+        },
+        {
+            "id": 2,
+            "image" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F31%2Fed1f1wsbhrqxytfv__1080_790.jpg&w=520&q=100",
+            "icon" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fwdes%2F0_4.39d92fb1.jpg&w=42&q=100",
+            "title" : "엔비티(NBT)",
+            "subtitle" : "IT, 컨텐츠"
+        },
+        {
+            "id": 3,
+            "image" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F36240%2Ff0btxvlephw9t66u__1080_790.jpg&w=520&q=100",
+            "icon" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fwdes%2F0_4.43cba4c4.jpg&w=42&q=100",
+            "title" : "피플바이오",
+            "subtitle" : "전문, 과학기술"
+        },
+        {
+            "id": 4,
+            "image" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F2275%2F17749_2_0.__1080_790.jpg&w=520&q=100",
+            "icon" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fwdes%2F0_4_ea36534f-8fd1-4732-a998-5dd0f5a761a9.jpg&w=42&q=100",
+            "title" : "인포뱅크",
+            "subtitle" : "IT, 컨텐츠"
+        },
+        {
+            "id": 5,
+            "image" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F26580%2Fmc6hg9jtqwpuz05v__1080_790.jpeg&w=520&q=100",
+            "icon" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fwdes%2F0_4.b8c4895c.jpg&w=42&q=100",
+            "title" : "엠브레인",
+            "subtitle" : "제조"
+        },
+        {
+            "id": 6,
+            "image" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F4818%2F9lujniwoc9sqefgc__1080_790.jpg&w=520&q=100",
+            "icon" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fwdes%2F0_4.e6af3aaa.png&w=42&q=100",
+            "title" : "롯데면세점",
+            "subtitle" : "판매, 유통"
+        },
+        {
+            "id": 7,
+            "image" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F16580%2Fhv86ripgam9sqi4t__1080_790.png&w=520&q=100",
+            "icon" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fwdes%2F0_4.54b4ba14.png&w=42&q=100",
+            "title" : "아이엠지티",
+            "subtitle" : "보건, 사회복지"
+        },
+        {
+            "id": 8,
+            "image" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F33659%2Furegs2cvla5ncsnr__1080_790.jpg&w=520&q=100",
+            "icon" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fwdes%2F0_4.02b6222d.jpg&w=42&q=100",
+            "title" : "드림어스컴퍼니",
+            "subtitle" : "IT, 컨텐츠"
+        },
+        {
+            "id": 9,
+            "image" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F4%2Fyikyilr7bq6iypte__1080_790.jpg&w=520&q=100",
+            "icon" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fwdes%2F0_4.474d9c17.jpg&w=42&q=100",
+            "title" : "지큐브",
+            "subtitle" : "IT, 컨텐츠"
+        },
+        {
+            "id": 10,
+            "image" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F34509%2Fs8vfkcxxz7jgqnoz__1080_790.jpg&w=520&q=100",
+            "icon" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fwdes%2F0_4.4fd3d548.jpg&w=42&q=100",
+            "title" : "한화테크원",
+            "subtitle" : "IT, 컨텐츠"
+        }
+    ]
+}

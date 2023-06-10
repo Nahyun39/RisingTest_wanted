@@ -1,0 +1,74 @@
+{
+    "companyInfo1" : [
+        {
+            "id": 1,
+            "image" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F25925%2Frsmswmrbukxwoq0g__1080_790.jpg&w=520&q=100",
+            "icon" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fwdes%2F0_4.d0e833ad.jpg&w=42&q=100",
+            "title" : "로얄앤컴퍼니",
+            "subtitle" : "제조"
+        },
+        {
+            "id": 2,
+            "image" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F4913%2Fcmvxu7iudsichea2__1080_790.jpg&w=520&q=100",
+            "icon" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fwdes%2F0_4.6774f2d7.jpg&w=42&q=100",
+            "title" : "더북컴퍼니",
+            "subtitle" : "판매, 유통"
+        },
+        {
+            "id": 3,
+            "image" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F8177%2Ffr3dtvmomfzj6gbr__1080_790.jpeg&w=520&q=100",
+            "icon" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fwdes%2F0_4.f5aa28ea.png&w=42&q=100",
+            "title" : "스와치온",
+            "subtitle" : "IT, 컨텐츠"
+        },
+        {
+            "id": 4,
+            "image" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F3236%2Ftowcvbbsibhu0edq__1080_790.jpg&w=520&q=100",
+            "icon" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fwdes%2F0_4.8ffa454d.jpg&w=42&q=100",
+            "title" : "케이티넥스알",
+            "subtitle" : "IT, 컨텐츠"
+        },
+        {
+            "id": 5,
+            "image" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F12403%2Fkmj6s4uce6ggi46y__1080_790.jpg&w=520&q=100",
+            "icon" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fwdes%2F0_4.b8c4895c.jpg&w=42&q=100",
+            "title" : "리팅랩스",
+            "subtitle" : "기타 서비스업"
+        },
+        {
+            "id": 6,
+            "image" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F13808%2Fenvfd0y5jcitlllx__1080_790.jpg&w=520&q=100",
+            "icon" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fwdes%2F0_4.e6af3aaa.png&w=42&q=100",
+            "title" : "닥터나우",
+            "subtitle" : "IT, 컨텐츠"
+        },
+        {
+            "id": 7,
+            "image" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F16580%2Fhv86ripgam9sqi4t__1080_790.png&w=520&q=100",
+            "icon" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fwdes%2F0_4.54b4ba14.png&w=42&q=100",
+            "title" : "웰컴에프앤디",
+            "subtitle" : "IT, 컨텐츠"
+        },
+        {
+            "id": 8,
+            "image" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F33659%2Furegs2cvla5ncsnr__1080_790.jpg&w=520&q=100",
+            "icon" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fwdes%2F0_4.02b6222d.jpg&w=42&q=100",
+            "title" : "펜타시큐리티시스템",
+            "subtitle" : "IT, 컨텐츠"
+        },
+        {
+            "id": 9,
+            "image" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F4%2Fyikyilr7bq6iypte__1080_790.jpg&w=520&q=100",
+            "icon" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fwdes%2F0_4.474d9c17.jpg&w=42&q=100",
+            "title" : "포잉",
+            "subtitle" : "IT, 컨텐츠"
+        },
+        {
+            "id": 10,
+            "image" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F34509%2Fs8vfkcxxz7jgqnoz__1080_790.jpg&w=520&q=100",
+            "icon" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fwdes%2F0_4.4fd3d548.jpg&w=42&q=100",
+            "title" : "원티드랩파트너스",
+            "subtitle" : "금융"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "position" : [
+        {
+            "id" : 1,
+            "image" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F2756%2Fvxmezhtjlsml3qd3__400_400.jpg&w=400&q=75",
+            "title" : "데이터 엔지니어",
+            "subtitle" : "펫프렌즈",
+            "nation" : "서울. 한국"
+        },
+        {
+            "id" : 2,
+            "image" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F11355%2Fcrlpfjrhrjpota7i__400_400.jpg&w=400&q=75",
+            "title" : "웹디자이너",
+            "subtitle" : "잭슨카멜레온",
+            "nation" : "서울. 한국"
+        },
+        {
+            "id" : 3,
+            "image" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F10785%2Fxyb93wefrghj3ppy__400_400.png&w=400&q=75",
+            "title" : "IT B2B 세일즈  매니저",
+            "subtitle" : "로민",
+            "nation" : "서울. 한국"
+        },
+        {
+            "id" : 4,
+            "image" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F18637%2Fp2bp5fg0xhzwpid5__400_400.jpg&w=400&q=75",
+            "title" : "그로스 매니저 Growth Mananger",
+            "subtitle" : "이오스튜디오",
+            "nation" : "서울. 한국"
+        }
+    ]
+}
